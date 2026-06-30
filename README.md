@@ -1,4 +1,5 @@
 📊 Netflix Stock Price Performance Dashboard (Power BI)
+
 📌 Project Overview
 
 This project focuses on analyzing historical Netflix stock price performance using Microsoft Power BI.
@@ -91,7 +92,6 @@ Include predictive analytics using Machine Learning
 Compare Netflix stock with other tech companies
 
 Publish dashboard to Power BI Service for online access
-
 
 
 👨‍💻 Author
